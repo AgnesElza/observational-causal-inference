@@ -47,3 +47,7 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# Windows Zone Identifier files (created by WSL/Windows)
+*:Zone.Identifier
+renv/library/
